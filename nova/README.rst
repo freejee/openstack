@@ -1,5 +1,5 @@
 ========================
-Team and repository tags
+团队和仓库标签
 ========================
 
 .. image:: https://governance.openstack.org/tc/badges/nova.svg
@@ -10,65 +10,50 @@ Team and repository tags
 OpenStack Nova
 ==============
 
-OpenStack Nova provides a cloud computing fabric controller, supporting a wide
-variety of compute technologies, including: libvirt (KVM, Xen, LXC and more),
-Hyper-V, VMware, XenServer, OpenStack Ironic and PowerVM.
+OpenStack Nova提供了云计算的Fabric控制器，支持各种计算技术，包括：libvirt（KVM、Xen、LXC等）、Hyper-V、VMware、XenServer、OpenStack Ironic和PowerVM。
 
-Use the following resources to learn more.
+要了解更多信息请使用以下资源。
 
 API
 ---
 
-To learn how to use Nova's API, consult the documentation available online at:
+要学习如何使用Nova API，请参考以下在线文档：
 
-- `Compute API Guide <https://developer.openstack.org/api-guide/compute/>`__
-- `Compute API Reference <https://developer.openstack.org/api-ref/compute/>`__
+- `Compute API 指南 <https://developer.openstack.org/api-guide/compute/>`__
+- `Compute API 参考 <https://developer.openstack.org/api-ref/compute/>`__
 
-For more information on OpenStack APIs, SDKs and CLIs in general, refer to:
 
-- `OpenStack for App Developers <https://www.openstack.org/appdev/>`__
-- `Development resources for OpenStack clouds
-  <https://developer.openstack.org/>`__
+有关OpenStack API、SDK和CLI的更多信息，请参考：
 
-Operators
+- `OpenStack应用开发 <https://www.openstack.org/appdev/>`__
+- `OpenStack云开发资源 <https://developer.openstack.org/>`__
+
+操作人员
 ---------
 
-To learn how to deploy and configure OpenStack Nova, consult the documentation
-available online at:
+要学习如何部署和配置OpenStack Nova，请参考以下在线文档：
 
 - `OpenStack Nova <https://docs.openstack.org/nova/>`__
 
-In the unfortunate event that bugs are discovered, they should be reported to
-the appropriate bug tracker. If you obtained the software from a 3rd party
-operating system vendor, it is often wise to use their own bug tracker for
-reporting problems. In all other cases use the master OpenStack bug tracker,
-available at:
+Bug的发现是一件不幸的事情，应该把Bug报告给适当的Bug跟踪系统。如果你是从第三方操作系统供应商那获取软件，使用他们自己的Bug跟踪系统来报告问题是明智的做法。在其他所有情况下，请使用OpenStack的以下Bug跟踪系统：
 
-- `Bug Tracker <https://bugs.launchpad.net/nova>`__
+- `Bug跟踪系统 <https://bugs.launchpad.net/nova>`__
 
-Developers
+开发人员
 ----------
 
-For information on how to contribute to Nova, please see the contents of the
-CONTRIBUTING.rst.
+关于如何向Nova提供贡献的信息，请参考CONTRIBUTING.rst的内容。
 
-Any new code must follow the development guidelines detailed in the HACKING.rst
-file, and pass all unit tests.
+任何新代码都必须遵循HACKING.rst文件中描述的开发指南，并通过所有单元测试。
 
-Further developer focused documentation is available at:
+开发人员关注的其他文档如下：
 
-- `Official Nova Documentation <https://docs.openstack.org/nova/>`__
-- `Official Client Documentation
-  <https://docs.openstack.org/python-novaclient/>`__
+- `官方的Nova文档 <https://docs.openstack.org/nova/>`__
+- `官方的客户端文档 <https://docs.openstack.org/python-novaclient/>`__
 
-Other Information
+其他信息
 -----------------
 
-During each `Summit`_ and `Project Team Gathering`_, we agree on what the whole
-community wants to focus on for the upcoming release. The plans for nova can
-be found at:
+在每次 `峰会 <https://www.openstack.org/summit/>`__ 和 `项目组会议 <https://www.openstack.org/ptg/>`__ 期间，我们允许整个社区都来关注即将发布的版本。Nova的计划如下：
 
-- `Nova Specs <http://specs.openstack.org/openstack/nova-specs/>`__
-
-.. _Summit: https://www.openstack.org/summit/
-.. _Project Team Gathering: https://www.openstack.org/ptg/
+- `Nova规范 <http://specs.openstack.org/openstack/nova-specs/>`__
