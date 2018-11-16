@@ -52,7 +52,6 @@
 + [git@github.com:openstack/trove.git](git@github.com:openstack/trove.git)
 
 ## kuryr
-
 容器框架的网络和存储模型与OpenStack的网络和存储抽象之间的连接桥梁。
 + [http://openstack.org](http://openstack.org)
 + [https://github.com/openstack/kuryr](https://github.com/openstack/kuryr)
