@@ -1,5 +1,6 @@
 # openstack
-+ https://github.com/openstack
++ [http://openstack.org](http://openstack.org)
++ [https://github.com/openstack](https://github.com/openstack)
 
 ## nova
 + [https://github.com/openstack/nova](https://github.com/openstack/nova)
@@ -53,10 +54,10 @@
 
 ## kuryr
 容器框架的网络和存储模型与OpenStack的网络和存储抽象之间的连接桥梁。
-+ [http://openstack.org](http://openstack.org)
 + [https://github.com/openstack/kuryr](https://github.com/openstack/kuryr)
 + [https://github.com/openstack/kuryr.git](https://github.com/openstack/kuryr.git)
 + [git@github.com:openstack/kuryr.git](git@github.com:openstack/kuryr.git)
++ [kuryr/README](./kuryr/README.rst)
 
 
 
